@@ -1,0 +1,14 @@
+.uber-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+}
+
+.uber-button:hover {
+  opacity: 0.8;
+}

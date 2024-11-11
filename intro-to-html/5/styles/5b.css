@@ -1,0 +1,14 @@
+.first-p {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.second-p {
+  font-family: Arial;
+  font-size: 18px;
+  font-style: italic;
+  color: red;
+  margin-top: 0;
+}
