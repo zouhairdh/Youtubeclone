@@ -1,5 +1,6 @@
 .thumbnail {
   width: 100%;
+  cursor: pointer;
 }
 
 .video-title {
@@ -8,6 +9,7 @@
   font-weight: 500;
   line-height: 20px;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .video-info-grid {
@@ -70,4 +72,9 @@
   position: absolute;
   bottom: 8px;
   right: 5px;
+}
+
+.video-link {
+  text-decoration: none;
+  color: black;
 }
